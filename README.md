@@ -83,7 +83,7 @@ Navisights is **pioneering the next generation of urban transport**, making it *
 Be part of this **revolution in autonomous mobility**. 🚀
 
 📞 **Contact Us**: [9025822579]\
-🌐 **Website**: [🔗 https://navisights.vercel.app/](https://hisp.vercel.app/)
+🌐 **Website**: [🔗 https://navisights.vercel.app/](https://navisights.vercel.app/)
 
 ---
 
