@@ -68,11 +68,12 @@ Our vehicles are designed to:
 
 ## 👥 **Founding Team**
 
+- **Surya A** – Founder
 - **Sivanesh KS** – Co-Founder
 - **Narenkumar** – Co-Founder
 - **Barath Kumar M** – Co-Founder
 
-🧑‍🏫 **Project Guide**: Ahsan Sharief
+🧑‍🏫 **Project Guide**: Dr.M.Nithya
 
 ---
 
